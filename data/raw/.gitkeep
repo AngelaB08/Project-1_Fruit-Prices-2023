@@ -1,4 +1,3 @@
-
 Fruit,Form,AverageRetailPrice,AverageRetailPriceUnitOfMeasure,PreparationYieldFactor,SizeOfACupEquivalent ,CupEquivalentUnitOfMeasure,AveragePricePerCupEquivalent
 Apples,Fresh,1.86093095,per pound,0.9,0.2425,pounds,0.501435057
 "Apples, applesauce",Canned,1.208099427,per pound,1,0.5401,pounds,0.652533815
